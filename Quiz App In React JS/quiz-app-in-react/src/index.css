@@ -1,0 +1,12 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  }
+  
+  body {
+      height: 100%;
+      background-image: url("https://i.pinimg.com/474x/c0/d3/82/c0d3820805958fe2d8435adf5f7e365d.jpg");
+      background-size: cover;
+  }
